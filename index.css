@@ -1,6 +1,13 @@
 body {
   justify-content: space-evenly;
-  border-color: aqua;
   background-color: aquamarine;
 }
 
+p {
+  font-size: xx-small;
+}
+
+img {
+  border-color: beige;
+  border-width: 5px;
+}
